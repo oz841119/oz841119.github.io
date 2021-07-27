@@ -1,0 +1,2 @@
+webpackJsonp([1],{Cg8V:function(e,t){},Lldd:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("購物車")])},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("Cg8V")},null,null);t.default=s.exports}});
+//# sourceMappingURL=1.be76db4c097ba6c0628d.js.map
