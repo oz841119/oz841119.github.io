@@ -1,2 +1,0 @@
-webpackJsonp([0],{"7M7R":function(e,t){},XwkR:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("首頁")])},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("7M7R")},null,null);t.default=s.exports}});
-//# sourceMappingURL=0.ff91128376977e4405df.js.map
